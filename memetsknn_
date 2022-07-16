@@ -1,0 +1,3 @@
+git remote add Origin https://github.com/Memetsknn/memett.git
+ git branch -M main 
+git push -u Origin main
